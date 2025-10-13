@@ -3,13 +3,13 @@ font-size = 16
 
 shell-integration-features = no-cursor,sudo,no-title
 
-theme = catppuccin-frappe
-background-opacity = 0.75
-background-blur-radius = 40
+theme = comp
+background-opacity = 1
+background-blur-radius = 10
 
 cursor-style = block
-cursor-style-blink = false
-adjust-cell-height = 35%
+cursor-style-blink = true
+adjust-cell-height = 10%
 
 mouse-hide-while-typing = true
 
