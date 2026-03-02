@@ -3,7 +3,7 @@ font-size = 16
 
 shell-integration-features = no-cursor,sudo,no-title
 
-theme = comp
+theme = basic
 background-opacity = .5
 background-blur-radius = 10
 
