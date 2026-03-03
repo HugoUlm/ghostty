@@ -31,6 +31,10 @@ keybind = cmd+a>k=new_split:up
 keybind = cmd+a>l=new_split:right
 keybind = cmd+a>f=toggle_split_zoom
 keybind = cmd+shift+w=close_surface
+keybind = cmd+z>h=resize_split:left,50
+keybind = cmd+z>j=resize_split:down,50
+keybind = cmd+z>k=resize_split:up,50
+keybind = cmd+z>l=resize_split:right,50
 
 keybind = cmd+a>n=next_tab
 keybind = cmd+a>p=previous_tab
@@ -40,5 +44,5 @@ keybind = cmd+r=reload_config
 keybind = global:cmd+q=toggle_quick_terminal
 
 keybind = cmd+shift+h=text:cd
-keybind = cmd+shift+r=text:cd source/repos/
+keybind = cmd+shift+r=text:cd src/repos/
 
