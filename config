@@ -8,7 +8,7 @@ background-opacity = .5
 background-blur-radius = 10
 
 cursor-style = block
-cursor-style-blink = true
+cursor-style-blink = false
 adjust-cell-height = 10%
 
 mouse-hide-while-typing = true
@@ -35,6 +35,7 @@ keybind = cmd+z>h=resize_split:left,50
 keybind = cmd+z>j=resize_split:down,50
 keybind = cmd+z>k=resize_split:up,50
 keybind = cmd+z>l=resize_split:right,50
+keybind = cmd+a>e=equalize_splits
 
 keybind = cmd+a>n=next_tab
 keybind = cmd+a>p=previous_tab
